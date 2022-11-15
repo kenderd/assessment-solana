@@ -1,0 +1,30 @@
+main {margin:auto;margin-top: 3em ;width: 100%;display:flex;flex-wrap: wrap ;flex-direction: row ;justify-content: center;}
+
+section {display: flex;flex-wrap: wrap;}
+
+.buttonClass {
+   
+    width: 100%;
+    border-width: 1px;
+    color: #fff;
+    border-color: rgba(78, 96, 150, 0);
+    border-radius: 1em 1em 1em 1em;
+    box-shadow: 0px 0px 0px 2px rgba(159, 180, 242, 0);
+ 
+    background: linear-gradient(rgb(101, 37, 219), rgb(27, 2, 66));
+    margin:1em 3em;
+    flex-basis: 100%;
+}
+
+.buttonClass:hover {
+    background: linear-gradient(rgba(61, 4, 90, 1), rgba(136, 15, 185, 1));
+}
+
+h3 {padding: 2em;}
+
+h4 {color:white; padding: 1em; background-color: rgb(66, 0, 189);border-radius: 1em;text-align: center;margin: auto;}
+
+
+a {text-decoration: none;color: white;}
+
+section {flex-basis: 100%;}

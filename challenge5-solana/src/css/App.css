@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  
+  background-image: url(https://i.ibb.co/vk9ZCmM/bg-image.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+ font-family: 'Roboto', sans-serif;
+}
+
